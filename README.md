@@ -66,8 +66,7 @@ Figure -02 HALF Subtractor
 
 
 # OUTPUT WAVEFORM:
-![output diagram](https://github.com/user-attachments/assets/fc30e274-6619-4f20-b177-6347f9cb9fa3)
-
+![half adder 123](https://github.com/user-attachments/assets/82fed6e0-c13e-4757-9316-e63c16474298)
 
 # RESULT:
 
