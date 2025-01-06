@@ -2,7 +2,6 @@
 ## REG NO:24900843
 # EXPERIMENT 3:IMPLEMENTATION OF HALF ADDER AND SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 # AIM:
 
